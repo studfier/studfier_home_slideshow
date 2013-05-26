@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Studfier Home Slideshow feature.
+ */
+
+include_once 'studfier_home_slideshow.features.inc';
